@@ -32,18 +32,70 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
-		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
 
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 
-
-		<script src="js/script.js"></script>
 
 		<title>Deep Dive Cookbook</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<div class="text-box">
+				<h1 class="title-text">Deep Dive Coding Bootcamp Cookbook</h1>
+				<br><br><br>
+				<p class="content-text">
+					This is a collection of recipes created at the CNM Deep Dive Coding Bootcamp. They can be made using only supplies provided by the camp.
+				</p>
+				<br><br><br>
+				<h2 class="recipe-title">Smtih Sandwich</h2>
+				<p class="content-text">
+					<br>
+					Bagel of Choice (cheese bagel is recommended, everything bagel is another good option.)
+					<br>
+					2 Hard Boiled Eggs Cut in Halves.
+					<br>
+					2 Sticks of String Cheese Split Down the Middle.
+					<br><br>
+					Take your bagel and cut it in half then toast both sides, after toasting layer the egg halves flat side down spaced evenly on one half of the bagel, layer the cheese on top of that and place the other bagel half on top. Copious amounts of Sriracha can be added to the bagel before the eggs and cheese or on top after or both if you're feeling cheeky. And tada now you've got yourself a "Smtih Sandwich".
+				</p>
+				<br><br><br>
+				<h2 class="recipe-title">Saru's Sunrise Sandwich</h2>
+				<p class="content-text">
+					1 English Muffin
+					<br>
+					Peanut Butter
+					<br>
+					1-2 Sticks of String Cheese
+					<br><br>
+					Toast english muffins to taste. Spread peanut butter on both halves, top with string cheese.
+				</p>
+				<br><br><br>
+				<h2 class="recipe-title">The Dantizzle</h2>
+				<p class="content-text">
+					1 Croissant
+					<br>
+					Peanut Butter
+					<br>
+					Fruit Preserves/Jelly
+					<br>
+					Butter Spread
+					<br><br>
+					Heat croissant in toaster oven on medium heat until soft. Top with butter spread. Mix peanut butter and fruit preserves/jelly on a plate. Scoop peanut butter and fruit preserves/jelly mixture onto croissant per bite to taste.
+				</p>
+				<br><br><br>
+				<p class="content-text">
+					Website by Taylor McCarthy
+					<br>
+					Recipes by:
+					<br>
+					Ben "Smtih" Smith
+					<br>
+					Sarah Ruth "Saru" Finkel
+					<br>
+					Dante "Radio_Face_" Conley
+				</p>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

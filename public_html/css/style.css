@@ -1,3 +1,38 @@
+/* Background pattern from Subtle Patterns */
+
+.text-box {
+	text-align:center;
+}
+
+.title-text {
+	color: #FAD107;
+	text-shadow: 0 0 7px #2B2B2B;
+
+}
+
+.content-text {
+	margin-left: 20vw;
+	margin-right: 20vw;
+	padding: 4px;
+	background-color: rgba(43,43,43, .5);
+	color: #FAD107;
+	border:2px solid;
+	border-color: #FAD107;
+	border-radius: 10px;
+}
+
+.recipe-title {
+	color: #FAD107;
+	text-shadow: 0 0 7px #2B2B2B;
+}
+
+
+.ing {
+	color: #2B2B2B
+}
+
+
+/* sfooter stuff */
 .sfooter {
 	display: flex;
 	flex-direction: column;
